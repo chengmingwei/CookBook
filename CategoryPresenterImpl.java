@@ -9,6 +9,6 @@ import cookbook.cmw.com.cookbook.category.dao.inter.CategoryPresenter;
 public class CategoryPresenterImpl implements CategoryPresenter {
     @Override
     public void getCategory() {
-        
+
     }
 }
